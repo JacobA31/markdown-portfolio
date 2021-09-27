@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Go to gym
+* sleep
+* eat food
+* running
