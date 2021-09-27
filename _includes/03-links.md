@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![Link to JacobA31 github] (https://github.com/JacobA31/markdown-portfolio/pull/3)
